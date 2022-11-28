@@ -41,5 +41,5 @@ li a{
 li a:hover {
     background-color: rgb(62, 165, 156);
 }
-img {width: 25%;height: 25%;}
+.navimg {width: 25%;height: 25%;}
 /*End of top navbar code*/

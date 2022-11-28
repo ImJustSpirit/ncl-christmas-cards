@@ -25,7 +25,7 @@ ul {list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(78, 124, 133);
+    background-color: rgb(0, 0, 0);
 }
 li {
     float: left;
@@ -33,13 +33,13 @@ li {
 li a{
     display: block;
     color: #fff;
-    background-color: rgb(56, 180, 189);
+    background-color: rgb(0, 0, 255);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 li a:hover {
-    background-color: rgb(62, 165, 156);
+    background-color: rgb(255, 0, 0);
 }
-.ColLogo {width: 25%;height: 25%;}
+.Logo {width: 92px;height: 46px;}
 /*End of top navbar code*/

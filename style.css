@@ -43,3 +43,75 @@ li a:hover {
 }
 .Logo {width: 92px;height: 46px;}
 /*End of top navbar code*/
+
+/*grid for cards*/
+.gridLayout {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    border: 5px solid black;  /*not sure on what colours we are using*/
+    border-radius: 25px;
+}
+
+.item1Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.item2Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.item3Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.item4Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.item5Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.item6Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.item7Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.item8Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.item9Temp {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}

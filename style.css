@@ -14,3 +14,32 @@
     background-color: ;
     */
 }
+/*Top Navbar code*/
+.navigation {
+    width: 100%;
+    height: 100px;
+    background-color: silver;
+    color: #fff;
+}
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(78, 124, 133);
+}
+li {
+    float: left;
+}
+li a{
+    display: block;
+    color: #fff;
+    background-color: rgb(56, 180, 189);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: rgb(62, 165, 156);
+}
+img {width: 25%;height: 25%;}
+/*End of top navbar code*/

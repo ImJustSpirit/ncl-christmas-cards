@@ -3,7 +3,7 @@
     font-family: 'Comfortaa', cursive;
     font-weight: 400;
 }
-
+body {background-color: #80bd83}
 .button{
     text-align: center;
     border-radius: 4px;
@@ -25,7 +25,7 @@ ul {list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(0, 0, 0);
+    background-color: #e86868;
 }
 li {
     float: left;
@@ -33,7 +33,7 @@ li {
 li a{
     display: block;
     color: #fff;
-    background-color: rgb(0, 0, 255);
+    background-color: #80bd83;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;

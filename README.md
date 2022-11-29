@@ -6,3 +6,5 @@ Jack (1h) - Added a way to download the images. Documentation and code is at the
 
 isaac ~1hr, added grid for card displays, started styling (basic borders etc)
 
+
+Meidas ~1.5hrs - Added top navbar, added logo, fixed a couple of bugs with navbar

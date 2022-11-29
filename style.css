@@ -1,5 +1,7 @@
 *{
-    --main: white;
+    --white: hsl(0, 100%, 99%, 0.75);
+    --red: #e86868;
+    --green: #80bd83;
     font-family: 'Comfortaa', cursive;
     font-weight: 400;
 }
@@ -25,7 +27,7 @@ ul {list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #e86868;
+    background-color: var(--red);
 }
 li {
     float: left;
@@ -33,7 +35,7 @@ li {
 li a{
     display: block;
     color: #fff;
-    background-color: #80bd83;
+    background-color: var(--green);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -53,65 +55,10 @@ li a:hover {
     border-radius: 25px;
 }
 
-.item1Temp {
+.gridLayout div p {
     border: 2px solid black;
     border-radius: 15px;
     padding: 15px;
     margin: 10px;
-}
-
-.item2Temp {
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
-}
-
-.item3Temp {
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
-}
-
-.item4Temp {
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
-}
-
-.item5Temp {
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
-}
-
-.item6Temp {
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
-}
-
-.item7Temp {
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
-}
-
-.item8Temp {
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
-}
-
-.item9Temp {
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 15px;
-    margin: 10px;
+    background-color: var(--white);
 }

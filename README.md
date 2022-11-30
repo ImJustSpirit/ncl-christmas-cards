@@ -12,3 +12,7 @@ Meidas ~1.5hrs - Added top navbar, added logo, fixed a couple of bugs with navba
 
 ## 29/11/22
 Jack ~30m - Condensed repeating code. Added an about.html page. Added variables for the colours.
+
+
+## 30/11/22
+Jack ~1h 15m - Added media queires. Added CSS. Added test images as well as test pdfs. Added/changed variables. Put it all on the page so we can see what it would look like.

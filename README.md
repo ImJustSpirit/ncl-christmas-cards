@@ -16,3 +16,6 @@ Jack ~30m - Condensed repeating code. Added an about.html page. Added variables 
 
 ## 30/11/22
 Jack ~1h 15m - Added media queires. Added CSS. Added test images as well as test pdfs. Added/changed variables. Put it all on the page so we can see what it would look like.
+
+## 01/12/22
+Meidas ~1h 5m - Changed some colours, Updated the navbar, updated links

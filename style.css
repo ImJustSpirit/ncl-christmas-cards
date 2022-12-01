@@ -26,7 +26,7 @@ ul {list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: var(--red);
+    background-color: black;
 }
 li {
     float: left;
@@ -40,7 +40,7 @@ li a{
     text-decoration: none;
 }
 li a:hover {
-    background-color: rgb(255, 0, 0);
+    background-color: var(--red);
 }
 .Logo {width: 92px;height: 46px;}
 /*End of top navbar code*/

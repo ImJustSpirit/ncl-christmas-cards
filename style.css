@@ -98,3 +98,40 @@ li a:hover {
 @media only screen and (max-width: 650px) {
     .gridLayout div {grid-column: 1 / span 6;}
 }
+
+
+
+/*about page*/
+
+.aboutHeader {
+    width: 60vw;
+    background-color: var(--snow);
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-left: 20vw;
+    margin-top: 30px;
+}
+
+.aboutBox {
+    width: 80vw;
+    background-color: var(--snow);
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 10vw;
+}
+
+.contactBox {
+    width: 80vw;
+    background-color: var(--snow);
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 10vw;
+}

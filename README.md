@@ -4,7 +4,7 @@
 Jack ~1h - Added a way to download the images. Documentation and code is at the bottom of 'index.html'. Added selected font.
 
 
-Isaac ~1hr, added grid for card displays, started styling (basic borders etc)
+Isaac ~1hr - added grid for card displays, started styling (basic borders etc)
 
 
 Meidas ~1.5hrs - Added top navbar, added logo, fixed a couple of bugs with navbar
@@ -19,3 +19,6 @@ Jack ~1h 15m - Added media queires. Added CSS. Added test images as well as test
 
 ## 01/12/22
 Meidas ~1h 5m - Changed some colours, Updated the navbar, updated links
+
+## 03/12/22
+Isaac ~1hr - finished about page, apart from colours but I'll just put whatever goes on the home page on there.

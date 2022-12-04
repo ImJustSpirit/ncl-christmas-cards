@@ -1,5 +1,8 @@
 # ncl-christmas-cards
 
+## 04/12/22
+Jacob ~ 1h - Refactored grid layout, added favicon to site, added animation to navbar, removed black part from navbar.
+
 ## 28/11/22
 Jack ~1h - Added a way to download the images. Documentation and code is at the bottom of 'index.html'. Added selected font.
 

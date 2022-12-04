@@ -9,8 +9,10 @@
 body {background-color: #80bd83}
 .button{
     text-align: center;
-    border-radius: 4px;
+    border-radius: 7px;
     padding: 7px;
+    font-size: 15px;
+    font-weight: 700;
     text-decoration: none;
     background-color: var(--blue);
     color: white;
@@ -26,7 +28,6 @@ ul {list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
 }
 li {
     float: left;
@@ -36,21 +37,34 @@ li a{
     color: #fff;
     background-color: var(--green);
     text-align: center;
-    padding: 14px 16px;
+    padding: 12px 16px;
+    transition: 300ms;
     text-decoration: none;
 }
 li a:hover {
     background-color: var(--red);
 }
-.Logo {width: 92px;height: 46px;}
+.Logo {
+    width: 92px;
+    margin-right: 5px;
+    border-radius: 3px;
+    height: 43px;
+}
 /*End of top navbar code*/
 
 /*grid for cards*/
 .gridLayout {
     display: grid;
+    padding-left: 10px;
+    padding-right: 10px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    border: 5px solid black;  /*not sure on what colours we are using*/
     border-radius: 25px;
+}
+
+.pdf-size {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
 }
 
 .gridLayout div {
@@ -58,6 +72,7 @@ li a:hover {
     border-radius: 15px;
     padding: 15px;
     margin: 10px;
+    height: fit-content;
     background-color: var(--snow);
 }
 
@@ -103,35 +118,37 @@ li a:hover {
 
 /*about page*/
 
+/* creates a gap between each box. & centers the components.*/
+.gap {
+    display: grid;
+    gap: 24px;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
 .aboutHeader {
-    width: 60vw;
+    width: 70vw;
     background-color: var(--snow);
-    border: 3px solid black;
+    border: 2px solid black;
     border-radius: 15px;
     padding: 10px;
     text-align: center;
-    margin-bottom: 15px;
-    margin-left: 20vw;
-    margin-top: 30px;
 }
 
 .aboutBox {
-    width: 80vw;
+    width: 70vw;
     background-color: var(--snow);
     border: 2px solid black;
     border-radius: 15px;
-    margin-bottom: 15px;
     padding: 10px;
     text-align: center;
-    margin-left: 10vw;
 }
 
 .contactBox {
-    width: 80vw;
+    width: 70vw;
     background-color: var(--snow);
     border: 2px solid black;
     border-radius: 15px;
     padding: 10px;
     text-align: center;
-    margin-left: 10vw;
 }

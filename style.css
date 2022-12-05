@@ -119,6 +119,7 @@ li a:hover {
 /*about page*/
 
 /* creates a gap between each box. & centers the components.*/
+/*^^ it was already centered and spaced before?*/
 .gap {
     display: grid;
     gap: 24px;

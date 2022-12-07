@@ -27,3 +27,6 @@ Isaac ~30m - Started work on about page
 
 ## 03/12/22
 Isaac ~1hr - Finished about page, apart from colours but I'll just put whatever goes on the home page on there.
+
+## 07/12/22
+Meidas ~1.25hrs - Made extra pages, changed styling, centered the bottom nav bar, changed some code to reduce code

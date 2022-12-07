@@ -25,6 +25,7 @@ body {background-color: #80bd83}
     color: #fff;
 }
 ul {list-style-type: none;
+    text-align: center;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -33,7 +34,7 @@ li {
     float: left;
 }
 li a{
-    display: block;
+    display: inline-block;
     color: #fff;
     background-color: var(--green);
     text-align: center;
@@ -50,8 +51,11 @@ li a:hover {
     border-radius: 3px;
     height: 43px;
 }
+.NavBarBottom {list-style: none;
+    display: flex;
+    justify-content: center;
+}
 /*End of top navbar code*/
-
 /*grid for cards*/
 .gridLayout {
     display: grid;
@@ -60,13 +64,11 @@ li a:hover {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     border-radius: 25px;
 }
-
 .pdf-size {
     width: 100%;
     height: 450px;
     object-fit: cover;
 }
-
 .gridLayout div {
     border: 3px solid black;
     border-radius: 15px;
@@ -75,7 +77,6 @@ li a:hover {
     height: fit-content;
     background-color: var(--snow);
 }
-
 .gridLayout img {
     max-width: 100%;
     border-radius: 10px;
@@ -84,40 +85,30 @@ li a:hover {
     margin-left: auto;
     margin-right: auto;
 }
-
 .gridLayout h2 {
     margin-bottom: 0px;
 }
-
 .gridLayout p {
     margin: 0px;
     margin-bottom: 1%;
 }
-
 .gridLayout a {
     float: right;
     margin: 0px;
 }
-
 @media only screen and (min-width: 1200px) {
     .gridLayout div:nth-child(3n-2) {grid-column: 1 / span 2;}
     .gridLayout div:nth-child(3n-1) {grid-column: 3 / span 2;}
     .gridLayout div:nth-child(3n) {grid-column: 5 / span 2;}
 }
-
 @media only screen and (min-width: 650px) and (max-width: 1200px) {
     .gridLayout div:nth-child(odd) {grid-column: 1 / span 3;}
     .gridLayout div:nth-child(even) {grid-column: 4 / span 3;}
 } 
-
 @media only screen and (max-width: 650px) {
     .gridLayout div {grid-column: 1 / span 6;}
 }
-
-
-
 /*about page*/
-
 /* creates a gap between each box. & centers the components.*/
 /*^^ it was already centered and spaced before?*/
 .gap {
@@ -126,7 +117,6 @@ li a:hover {
     justify-content: center;
     margin-top: 5rem;
 }
-
 .aboutHeader {
     width: 70vw;
     background-color: var(--snow);
@@ -135,7 +125,6 @@ li a:hover {
     padding: 10px;
     text-align: center;
 }
-
 .aboutBox {
     width: 70vw;
     background-color: var(--snow);
@@ -144,7 +133,6 @@ li a:hover {
     padding: 10px;
     text-align: center;
 }
-
 .contactBox {
     width: 70vw;
     background-color: var(--snow);

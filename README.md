@@ -21,7 +21,7 @@ Jack ~30m - Condensed repeating code. Added an about.html page. Added variables 
 Jack ~1h 15m - Added media queires. Added CSS. Added test images as well as test pdfs. Added/changed variables. Put it all on the page so we can see what it would look like.
 
 ## 01/12/22
-Meidas ~1h 5m - Changed some colours, Updated the navbar, updated links
+Meidas ~1.5hrs - Changed some colours, Updated the navbar, updated links
 
 Isaac ~30m - Started work on about page
 
@@ -30,3 +30,6 @@ Isaac ~1hr - Finished about page, apart from colours but I'll just put whatever 
 
 ## 07/12/22
 Meidas ~1.5hrs - Made extra pages, changed styling, centered the bottom nav bar, changed some code to reduce code line count, bug fixing
+
+## 08/12/2022
+Meidas ~1hr - fixing all download buttons

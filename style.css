@@ -39,7 +39,7 @@ li a{
     background-color: var(--green);
     text-align: center;
     padding: 12px 16px;
-    transition: 300ms;
+    transition: 450ms;
     text-decoration: none;
     border-radius: 5px;
 }

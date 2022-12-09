@@ -33,3 +33,6 @@ Meidas ~1.5hrs - Made extra pages, changed styling, centered the bottom nav bar,
 
 ## 08/12/2022
 Meidas ~1hr - fixing all download buttons
+
+## 09/12/2022
+Meidas 5mins - Styling changes for navbars

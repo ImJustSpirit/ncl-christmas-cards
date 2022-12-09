@@ -36,5 +36,6 @@ Meidas ~1hr - fixing all download buttons
 
 ## 09/12/2022
 Meidas 5mins - Styling changes for navbars
+
 Isaac ~1hr - Updated pages with top and bottom navigation bars, removing uneccessary navigation.
 

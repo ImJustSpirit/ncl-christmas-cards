@@ -44,3 +44,6 @@ Jack ~1h - Added a Christmas Scene Silhouette to the bottom of the page.
 Jack ~30m - Sorted out Files. Added PDF versions. Renamed Files. Renamed download versions of the files so they are distinct.
 
 Meidas 2hrs - Added all Digital Technology Student's Cards
+
+## 17/12/22
+Meidas 3hrs - Adding all digital arts cards, bug fixing and updating code
